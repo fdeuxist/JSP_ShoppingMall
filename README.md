@@ -17,8 +17,10 @@ JSP 쇼핑몰
 이를 통해 데이터베이스 연동 및 웹 애플리케이션 개발의 기초를 다지는 데 중점을 두었습니다.
 
 ### 개발환경 (사용도구/언어)	
-Spring Tool Suite 3, Java, JSP, JDBC
+Spring Tool Suite 3, Java, JSP, JDBC, EL & JSTL
+
 Visual Studio Code, JavaScript, HTML5, CSS3
+
 Oracle SQL Developer, Oracle
 
 ### 담당역할	 
